@@ -2,6 +2,8 @@
  * Local styles specific to my presentations
  *********************************************/
 
+html { font-size: 40px; }
+
 /* Shade background images */
 section[data-background-image] {
   background-color: rgba(0,0,0,0.7);
