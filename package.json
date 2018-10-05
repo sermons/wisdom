@@ -1,18 +1,18 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/wisdom",
+  "repository": "sermons/wisdom",
+  "description": "Ecc1:12-18 Wisdom (1/5)",
   "keywords": [
     "slides",
-    "lectures",
-    "talks",
-    "ppt"
+    "sermon",
+    "meaning",
+    "ecclesiastes"
   ],
   "version": "1.6.27",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "wisdom.seanho.com",
+    "cname": "wisdom.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -23,14 +23,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Zion Christian Reformed Church",
+        "city": "Chilliwack",
+        "date": "2018-10-06",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0",
     "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",
