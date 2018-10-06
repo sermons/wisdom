@@ -111,9 +111,9 @@ and he who increases knowledge increases sorrow.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Wisdom [(Ecc1)](# "ref")
-1.
-2.
-3.
+1. **Searching** [(v12-13a)](# "ref")
+1. **Achievements** [(v13b-15)](# "ref")
+1. **Wisdom** [(v16-18)](# "ref")
 
 ---
 The words of the **Teacher**, <br>
@@ -196,10 +196,13 @@ as **David** his father had done.
   + but God still **used** him
 + Sol's **wisdom** given by God
   + in Proverbs, Eccl, and Song of Songs
++ Eccl is Sol's **reflection** on life
+  + on **work**: its limitations + value
+  + on **wisdom**: its limitations + value
 
 ---
-And I applied my heart to seek and to search out <br>
-by wisdom all that is done under heaven.
+I applied my **heart** to seek and to **search** out <br>
+by **wisdom** all that is **done** under heaven.
 
 <div class="zh">
 我 專 心 用 智 慧 尋 求 、 <br>
@@ -208,8 +211,15 @@ by wisdom all that is done under heaven.
 
 [Ecclesiastes 傳道書 1:13 (ESV/CUV)](# "ref")
 
+>>>
++ applied **heart**: life-long **learner**
+  + not just for **marks** / graduate
+  + not to **please** teacher / boss
++
+
 ---
 
+>>>
 + didn't have hope of **resurrection**
 + Sol's wisdom is **incomplete** without
   + the **gospel** of Christ
