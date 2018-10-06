@@ -132,6 +132,7 @@ and he who increases knowledge increases sorrow.
 1. **Wisdom** [(v16-18)](# "ref")
 
 ---
+<!-- .slide: <%= bg("Holyland_Model_Temple.jpg") %> -->
 The words of the **Teacher**, <br>
 son of **David**, king in Jerusalem
 
@@ -153,6 +154,7 @@ son of **David**, king in Jerusalem
   + (but all signs **point** to it)
 
 ---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 Behold, I give you a **wise** and discerning mind,  <br>
 so that none like you has been **before** you  <br>
 and none like you shall arise **after** you.
@@ -164,6 +166,7 @@ and none like you shall arise **after** you.
 </div>
 
 [1 Kings 列王紀上 3:12 (ESV/CUV)](# "ref")
+[Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
 
 >>>
 + and also **riches** + **honour**
@@ -175,6 +178,7 @@ and none like you shall arise **after** you.
   + does **not** mean he **obeyed** God!
 
 ---
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 When Solomon was old his **wives** <br>
 **turned away** his heart after other gods, <br>
 and his heart was not **wholly true** to the Lord his God
@@ -186,7 +190,8 @@ and his heart was not **wholly true** to the Lord his God
 誠 誠 實 實 地 順 服 耶 和 華 ─ 他 的 神 。
 </div>
 
-[1 Kings 列王紀上 11:4 (ESV/CUV)](# "ref")
+[1 Kings 列王紀上 11:4 (ESV/CUV) (p.1/2)](# "ref")
+[Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
 
 >>>
 + 700 wives + 300 concubines!
@@ -197,6 +202,7 @@ and his heart was not **wholly true** to the Lord his God
   + or "did what was **evil**"
 
 ---
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 So Solomon did what was **evil** in the sight of the Lord <br>
 and did **not** wholly follow the Lord, <br>
 as **David** his father had done.
@@ -206,7 +212,7 @@ as **David** his father had done.
 不 效 法 他 父 親 大 衛 專 心 順 從 耶 和 華 。
 </div>
 
-[1 Kings 列王紀上 11:6 (ESV/CUV)](# "ref")
+[1 Kings 列王紀上 11:6 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + Sol was judged as an **evil** king
@@ -218,6 +224,7 @@ as **David** his father had done.
   + on **wisdom**: its limitations + value
 
 ---
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 I applied my **heart** to seek and to **search** out <br>
 by **wisdom** all that is done **under heaven**.
 
@@ -244,6 +251,7 @@ by **wisdom** all that is done **under heaven**.
   + hope of **resurrection**
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 If any of you lacks **wisdom**, let him **ask God**, <br>
 who gives **generously** to all without **reproach**, <br>
 and it will be given him.
@@ -289,6 +297,7 @@ and it will be given him.
 + and man's **wisdom**
 
 ---
+<!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> -->
 I have seen everything that is **done** under the **sun**, <br>
 and behold, all is **vanity** and a striving after wind.
 
@@ -305,6 +314,7 @@ and what is **lacking** cannot be counted.
 </div>
 
 [Ecclesiastes 傳道書 1:14-15 (ESV/CUV)](# "ref")
+[Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
 >>>
 + first Sol examines mankind's **achivements**
@@ -343,6 +353,7 @@ It had absolutely no effect, it was **wasted money**."
   + will they really **change** the world?
 
 ---
+<!-- .slide: <%= bg("unsplash-Q1p7bh3SHj8-NASA_Gulf.jpg") %> -->
 What does man **gain** by all the **toil** <br>
 at which he toils under the **sun**? <br>
 
@@ -361,6 +372,7 @@ but the **earth** remains forever.
 </div>
 
 [Ecclesiastes 傳道書 1:3-4 (ESV/CUV)](# "ref")
+[Gulf of Mexico. NASA](https://unsplash.com/photos/Q1p7bh3SHj8 "caption")
 
 >>>
 + ever had a big **project** that was quietly killed?
@@ -376,6 +388,7 @@ but the **earth** remains forever.
 + "the **earth** remains forever": really?
 
 ---
+<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 But the **day of the Lord** will come like a thief,<br>
 and then the **heavens** will **pass away** with a roar, ...<br>
 and the **earth** and the **works** that are done on it<br>
@@ -399,6 +412,7 @@ will be **exposed**.
 + what is **worthwhile** to spend time on?
 
 ---
+<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 Since all these things are thus to be **dissolved**, <br>
 what **sort of people** ought you to be <br>
 in lives of **holiness** and godliness, <br>
@@ -448,6 +462,7 @@ the coming of the day of God!
 + and man's **wisdom**
 
 ---
+<!-- .slide: <%= bg("unsplash-6H9H-tYPUQQ-book.jpg") %> -->
 And I applied my **heart** to know **wisdom**  <br>
 and to know **madness** and **folly**.
 
@@ -459,7 +474,8 @@ I perceived that this also is but a **striving after wind**.
 乃 知 這 也 是 捕 風 。
 </div>
 
-[Ecclesiastes 傳道書 1:17 (ESV/CUV)](# "ref")
+[Ecclesiastes 傳道書 1:17 (ESV/CUV) (p.1/2)](# "ref")
+[Brandi Redd](https://unsplash.com/photos/6H9H-tYPUQQ "caption")
 
 >>>
 + again: applied **heart**
@@ -476,6 +492,7 @@ I perceived that this also is but a **striving after wind**.
 + **ch2** (tonight): Sol's exploration
 
 ---
+<!-- .slide: <%= bg("unsplash-6H9H-tYPUQQ-book.jpg") %> -->
 For in much wisdom is much **vexation**, <br>
 and he who increases knowledge increases **sorrow**.
 
@@ -484,7 +501,7 @@ and he who increases knowledge increases **sorrow**.
 加 增 知 識 的 ， 就 加 增 憂 傷 。
 </div>
 
-[Ecclesiastes 傳道書 1:18 (ESV/CUV)](# "ref")
+[Ecclesiastes 傳道書 1:18 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + thinking **more** about life only reveals
@@ -496,7 +513,9 @@ and he who increases knowledge increases **sorrow**.
   + of either wisdom **or** folly:
 
 ---
-Be not overly **righteous**, and do not make yourself too **wise**. <br>
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
+Be not overly **righteous**, <br>
+and do not make yourself too **wise**. <br>
 Why should you **destroy** yourself?
 
 [17](# "ref")
@@ -522,9 +541,11 @@ Why should you **die** before your time?
 + but pursuing **folly** also only hurts self
 
 ---
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 It is good that you should take hold of **this**,  <br>
 and from **that** withhold not your hand,  <br>
-for the one who **fears God** shall come out from both of them.
+for the one who **fears God** <br>
+shall come out from both of them.
 
 <div class="zh">
 你 持 守 這 個 為 美 ， 那 個 也 不 要 鬆 手 ； <br>
@@ -543,6 +564,7 @@ for the one who **fears God** shall come out from both of them.
 + God's **wisdom** is not like ours:
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 For the word of the cross is **folly** <br>
 to those who are **perishing**, <br>
 but to us who are being saved it is the **power of God**.
@@ -554,6 +576,7 @@ but to us who are being saved it is the **power of God**.
 </div>
 
 [1 Corinthians 歌林多前書 1:18 (ESV/CUV) (p.1/3)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
 + Paul in NT talks of a different sort of **wisdom** / folly
@@ -563,6 +586,7 @@ but to us who are being saved it is the **power of God**.
   + but is the **power** of God:
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Where is the one who is **wise**? Where is the **scribe**? <br>
 Where is the **debater** of this age? <br>
 Has not God made **foolish** the wisdom of the world?
@@ -582,6 +606,7 @@ Has not God made **foolish** the wisdom of the world?
 + but a **child's** humble faith can grasp it
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 For the **foolishness** of God is **wiser** than men, <br>
 and the **weakness** of God is **stronger** than men.
 
