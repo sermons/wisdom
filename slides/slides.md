@@ -1,7 +1,9 @@
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="title" -->
 # Wisdom
 ## Ecclesiastes 1:12-18
-### The Meaning of Life (1/5)
+### The Meaning of Life (3/5)
+
+[###](#/series "secret")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -131,6 +133,8 @@ and he who increases knowledge increases sorrow.
 1. **Searching** [(v12-13a)](# "ref")
 1. **Achievements** [(v13b-15)](# "ref")
 1. **Wisdom** [(v16-18)](# "ref")
+
+[###](#/Q1 "secret")
 
 ---
 <!-- .slide: <%= bg("Holyland_Model_Temple.jpg") %> -->
@@ -272,7 +276,7 @@ and it will be given him.
 + ask **God** for meaning/purpose in life
 
 ---
-<!-- .slide: data-background="white" -->
+<!-- .slide: data-background="white" id="Q1" -->
 # Have I **considered** what my **purpose** is?
 
 >>>
