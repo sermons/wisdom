@@ -195,15 +195,15 @@ as **David** his father had done.
 >>>
 + Sol was judged as an **evil** king
   + but God still **used** him
-+ Sol's **wisdom** given by God
-  + in Proverbs, Eccl, and Song of Songs
++ Sol's **wisdom** was given by God
+  + Proverbs, **Eccl**, and Song of Songs
 + Eccl is Sol's **reflection** on life
   + on **work**: its limitations + value
   + on **wisdom**: its limitations + value
 
 ---
 I applied my **heart** to seek and to **search** out <br>
-by **wisdom** all that is **done** under heaven.
+by **wisdom** all that is done **under heaven**.
 
 <div class="zh">
 我 專 心 用 智 慧 尋 求 、 <br>
@@ -220,6 +220,12 @@ by **wisdom** all that is **done** under heaven.
   + what do they deem **important**?
 + by **wisdom**: assess / examine
   + what is **worthwhile**?
++ **under heaven** / "under the sun": refrain in Eccl
+  + in this **life**, in this **world**
+  + from a **human** perspective
++ the wisdom in Eccl is **incomplete** without
+  + the **gospel** of Christ
+  + hope of **resurrection**
 
 ---
 If any of you lacks **wisdom**, let him **ask God**, <br>
@@ -248,7 +254,8 @@ and it will be given him.
 + or too busy **doing** life to think?
 + just **assume** must do school / work / family
   + always say **"yes"** to any request
-  + try not to get **angry** / selfish
+  + try to **help** others
+  + try not to get **angry** / be selfish
 + then **retire** and **hope** for the best?
 + Sol applied his **heart** to the search for meaning
   + turn our hearts to our **Creator** to tell us
@@ -260,16 +267,143 @@ and it will be given him.
 1. **Achievements** [(v13b-15)](# "ref")
 1. **Wisdom** [(v16-18)](# "ref")
 
----
+>>>
++ Sol's **search** for meaning
++ examined man's **works**
++ and man's **wisdom**
 
-
 ---
+I have seen everything that is **done** under the **sun**, <br>
+and behold, all is **vanity** and a striving after wind.
+
+[15](# "ref")
+What is **crooked** cannot be made straight, <br>
+and what is **lacking** cannot be counted.
+
+<div class="zh">
+我 見 日 光 之 下 所 做 的 一 切 事 ，<br>
+都 是 虛 空 ， 都 是 捕 風 。<br>
+[15](# "ref")
+彎 曲 的 ， 不 能 變 直 ； <br>
+缺 少 的 ， 不 能 足 數 。
+</div>
+
+[Ecclesiastes 傳道書 1:14-15 (ESV/CUV)](# "ref")
 
 >>>
-+ didn't have hope of **resurrection**
-+ Sol's wisdom is **incomplete** without
-  + the **gospel** of Christ
-  + hope of **resurrection**
++ first Sol examines mankind's **achivements**
+  + v13b what we are **busy** with
++ **projects**, make world a **better** place
+  + **helping** others
++ again: **"under the sun"**
+  + in **this** life / world
++ conclusion? **vanity**
+  + "hebel" (Abel): emptiness, mist, nothing
++ there will always be **crookedness**
+  + evil, injustice, corruption
++ there will always be **lack**
+  + poverty, manpower, time
++ e.g., former US **DEA agent** Michael Levine
+  + 26 years fighting **"war on drugs"**
+  + attack drug **supply** in S. America, Mexico, US
+  + did we make an **impact**?
+
+---
+"If you add all the hundreds of **billions of dollars**  <br>
+that have been spent in this **war on drugs**,
+
+[had we not] spent one **nickel** in the last **25 years**  <br>
+the situation would not be any **better** or any **worse**.
+
+It had absolutely no effect, it was **wasted money**."
+
+[Michael Levine, former DEA station chief](http://ncoic.com/deajive.htm "ref")
+
+>>>
++ "what is **crooked** cannot be made **straight**"
++ world is fundamentally **broken** by man's sin
++ **impossible** for us to **fix** it
++ what **projects** do I expend my time on?
+  + will they really **change** the world?
+
+---
+What does man **gain** by all the **toil** <br>
+at which he toils under the **sun**? <br>
+
+[4](# "ref")
+A generation goes, and a generation comes, <br>
+but the **earth** remains forever.
+
+<div class="zh">
+人 一 切 的 勞 碌 ，  <br>
+就 是 他 在 日 光 之 下 的 勞 碌 ，  <br>
+有 甚 麼 益 處 呢 ？
+
+[4](# "ref")
+一 代 過 去 ， 一 代 又 來 ，  <br>
+地 卻 永 遠 長 存 。
+</div>
+
+[Ecclesiastes 傳道書 1:3-4 (ESV/CUV)](# "ref")
+
+>>>
++ ever had a big **project** that was quietly killed?
+  + still get **paid**
+  + but was all our work in **vain**?
++ e.g., a team I work for in **Ministry of Health**
+  + 9mo getting patient **survey** data
+  + analyses, reports, meetings, presentations
+  + send to Ministry for **publication**
+  + then **BC gov** changes
+  + and it quietly **disappears**
++ remember: Sol speaks from **human** perspective
++ "the **earth** remains forever": really?
+
+---
+But the **day of the Lord** will come like a thief,<br>
+and then the **heavens** will **pass away** with a roar, ...<br>
+and the **earth** and the **works** that are done on it<br>
+will be **exposed**.
+
+<div class="zh">
+但 主 的 日 子 要 像 賊 來 到 一 樣 。<br>
+那 日 ， 天 必 大 有 響 聲 廢 去 ， <br>
+有 形 質 的 都 要 被 烈 火 銷 化 ， <br>
+地 和 其 上 的 物 都 要 燒 盡 了
+</div>
+
+[2 Peter 彼得後書 3:10 (ESV/CUV)](# "ref")
+
+>>>
++ this world will **not** last forever
++ the **crookedness** + **lack** will come to an end
++ God will **judge** the world
+  + in **righteousness** + truth
++ so in **light** of the coming judgment,
++ what is **worthwhile** to spend time on?
+
+---
+Since all these things are thus to be **dissolved**, <br>
+what **sort of people** ought you to be <br>
+in lives of **holiness** and godliness, <br>
+[12](# "ref")
+**waiting** for and hastening the coming of the day of God!
+
+<div class="zh">
+這 一 切 既 然 都 要 如 此 銷 化 ， <br>
+你 們 為 人 該 當 怎 樣 聖 潔 ， 怎 樣 敬 虔 ，<br>
+[12](# "ref")
+切 切 仰 望 神 的 日 子 來 到 。
+</div>
+
+[2 Peter 彼得後書 3:10 (ESV/CUV)](# "ref")
+
+>>>
++ not what I can **achieve**
++ but what kind of **person** I am
++ **holy** (set apart, dedicated to God)
+  + **godly** (outward expression of humility / reverence)
++ **waiting** eagerly for Christ's return
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="series" class="outline" -->
