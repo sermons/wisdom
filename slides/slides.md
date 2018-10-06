@@ -110,7 +110,7 @@ and he who increases knowledge increases sorrow.
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
-## Wisdom [(Ecc1)](# "ref")
+## Wisdom [(Ecc 1)](# "ref")
 1. **Searching** [(v12-13a)](# "ref")
 1. **Achievements** [(v13b-15)](# "ref")
 1. **Wisdom** [(v16-18)](# "ref")
@@ -263,9 +263,9 @@ and it will be given him.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## Wisdom [(Ecc1)](# "ref")
-1. **Searching** [(v12-13a)](# "ref")
+1. Searching [(v12-13a)](# "ref")
 1. **Achievements** [(v13b-15)](# "ref")
-1. **Wisdom** [(v16-18)](# "ref")
+1. Wisdom [(v16-18)](# "ref")
 
 >>>
 + Sol's **search** for meaning
@@ -337,7 +337,7 @@ but the **earth** remains forever.
 <div class="zh">
 人 一 切 的 勞 碌 ，  <br>
 就 是 他 在 日 光 之 下 的 勞 碌 ，  <br>
-有 甚 麼 益 處 呢 ？
+有 甚 麼 益 處 呢 ？<br>
 
 [4](# "ref")
 一 代 過 去 ， 一 代 又 來 ，  <br>
@@ -387,7 +387,8 @@ Since all these things are thus to be **dissolved**, <br>
 what **sort of people** ought you to be <br>
 in lives of **holiness** and godliness, <br>
 [12](# "ref")
-**waiting** for and hastening the coming of the day of God!
+**waiting** for and hastening <br>
+the coming of the day of God!
 
 <div class="zh">
 這 一 切 既 然 都 要 如 此 銷 化 ， <br>
@@ -421,8 +422,8 @@ in lives of **holiness** and godliness, <br>
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## Wisdom [(Ecc1)](# "ref")
-1. **Searching** [(v12-13a)](# "ref")
-1. **Achievements** [(v13b-15)](# "ref")
+1. Searching [(v12-13a)](# "ref")
+1. Achievements [(v13b-15)](# "ref")
 1. **Wisdom** [(v16-18)](# "ref")
 
 >>>
@@ -455,8 +456,8 @@ I perceived that this also is but a **striving after wind**.
 
 ---
 [18](# "ref")
-For in much wisdom is much vexation, <br>
-and he who increases knowledge increases sorrow.
+For in much wisdom is much **vexation**, <br>
+and he who increases knowledge increases **sorrow**.
 
 <div class="zh">
 [18](# "ref")
@@ -466,8 +467,46 @@ and he who increases knowledge increases sorrow.
 
 [Ecclesiastes 傳道書 1:18 (ESV/CUV) (p.5/5)](# "ref")
 
----
+>>>
++ "**ignorance** is bliss"
 
+---
+For the word of the cross is **folly** <br>
+to those who are **perishing**, <br>
+but to us who are being saved it is the **power of God**.
+
+[20](# "ref")
+Where is the one who is **wise**? Where is the **scribe**? <br>
+Where is the **debater** of this age? <br>
+Has not God made **foolish** the wisdom of the world?
+
+<div class="zh">
+因 為 十 字 架 的 道 理 ， <br>
+在 那 滅 亡 的 人 為 愚 拙 ； <br>
+在 我 們 得 救 的 人 ， 卻 為 神 的 大 能 。<br>
+
+[20](# "ref")
+智 慧 人 在 那 裡 ？ 文 士 在 那 裡 ？ <br>
+這 世 上 的 辯 士 在 那 裡 ？ <br>
+神 豈 不 是 叫 這 世 上 的 智 慧 變 成 愚 拙 麼 ？
+</div>
+
+[1 Corinthians 歌林多前書 1:18,20 (ESV/CUV)](# "ref")
+
+---
+For the **foolishness** of God is **wiser** than men, <br>
+and the **weakness** of God is **stronger** than men.
+
+<div class="zh">
+因 神 的 愚 拙 總 比 人 智 慧 ， <br>
+神 的 軟 弱 總 比 人 強 壯 。
+</div>
+
+[1 Corinthians 歌林多前書 1:25 (ESV/CUV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="series" class="outline" -->
@@ -489,8 +528,7 @@ and he who increases knowledge increases sorrow.
 
 ---
 <!-- .slide: data-background="white" -->
-## 1.
-## 2.
+## 1. Have I **considered** what my **purpose** is?
+## 2. What **projects** of mine have been **chasing** after the wind?
 ## 3.
-
 
