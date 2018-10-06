@@ -406,6 +406,70 @@ in lives of **holiness** and godliness, <br>
 + **waiting** eagerly for Christ's return
 
 ---
+<!-- .slide: data-background="white" -->
+# What **projects** of mine have been **chasing** after the wind?
+
+>>>
++ e.g., spent days researching **digital cameras** online
+  + now gathering **dust** in drawer
+  + use my **phone** camera now
++ have I tried futilely to
+  + **straighten** what was crooked, or
+  + **count** what was lacking?
++ what kind of project **does** have lasting value?
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Wisdom [(Ecc1)](# "ref")
+1. **Searching** [(v12-13a)](# "ref")
+1. **Achievements** [(v13b-15)](# "ref")
+1. **Wisdom** [(v16-18)](# "ref")
+
+>>>
++ Sol's **search** for meaning
++ examined man's **works**
++ and man's **wisdom**
+
+---
+And I applied my **heart** to know **wisdom**  <br>
+and to know **madness** and **folly**.
+
+I perceived that this also is but a **striving after wind**.
+
+<div class="zh">
+我 又 專 心 察 明 智 慧 、 <br>
+狂 妄 ， 和 愚 昧 ， <br>
+乃 知 這 也 是 捕 風 。
+</div>
+
+[Ecclesiastes 傳道書 1:17 (ESV/CUV)](# "ref")
+
+>>>
++ again: applied **heart**
+  + earnest, desperate **search** for truth
++ is **wisdom** actually **better**?
++ **madness**: insane, irrational, chaotic
+  + switch off your **brain**
++ **folly**: inexperienced
+  + stupid things **kids** do
+
+---
+[18](# "ref")
+For in much wisdom is much vexation, <br>
+and he who increases knowledge increases sorrow.
+
+<div class="zh">
+[18](# "ref")
+因 為 多 有 智 慧 ， 就 多 有 愁 煩 ； <br>
+加 增 知 識 的 ， 就 加 增 憂 傷 。
+</div>
+
+[Ecclesiastes 傳道書 1:18 (ESV/CUV) (p.5/5)](# "ref")
+
+---
+
+
+---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="series" class="outline" -->
 1. **Wisdom** [(ch1)](# "ref"): Sat am
 1. **Ambition** [(ch2)](# "ref"): Sat pm
