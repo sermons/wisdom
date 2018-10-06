@@ -451,8 +451,11 @@ I perceived that this also is but a **striving after wind**.
 + is **wisdom** actually **better**?
 + **madness**: insane, irrational, chaotic
   + switch off your **brain**
-+ **folly**: inexperienced
++ **folly**: opposite of wisdom
+  + ill-advised, inexperienced
   + stupid things **kids** do
+  + obstinately **rejecting** wisdom
++ **ch2** (tonight): Sol's exploration
 
 ---
 [18](# "ref")
@@ -468,7 +471,11 @@ and he who increases knowledge increases **sorrow**.
 [Ecclesiastes 傳道書 1:18 (ESV/CUV) (p.5/5)](# "ref")
 
 >>>
-+ "**ignorance** is bliss"
++ thinking **more** about life only reveals
+  + its **futility**, and the
+  + inevitability of **death**
++ "**ignorance** is bliss", but
+  + doesn't make the **problem** go away
 
 ---
 For the word of the cross is **folly** <br>
@@ -483,6 +490,13 @@ but to us who are being saved it is the **power of God**.
 
 [1 Corinthians 歌林多前書 1:18 (ESV/CUV) (p.1/3)](# "ref")
 
+>>>
++ Paul in NT talks of a different sort of **wisdom** / folly
++ that the Son of God would **die** for us
+  + Master become the **servant** of all
++ sounds like **foolishness** + weakness
+  + but is the **power** of God:
+
 ---
 Where is the one who is **wise**? Where is the **scribe**? <br>
 Where is the **debater** of this age? <br>
@@ -496,6 +510,12 @@ Has not God made **foolish** the wisdom of the world?
 
 [1 Corinthians 歌林多前書 1:20 (ESV/CUV) (p.2/3)](# "ref")
 
+>>>
++ all the **philosophers** / PhDs of the world
+  + in all their **human** wisdom
+  + cannot **comprehend** God's plan of salvation
++ but a **child's** humble faith can grasp it
+
 ---
 For the **foolishness** of God is **wiser** than men, <br>
 and the **weakness** of God is **stronger** than men.
@@ -506,6 +526,15 @@ and the **weakness** of God is **stronger** than men.
 </div>
 
 [1 Corinthians 歌林多前書 1:25 (ESV/CUV) (p.3/3)](# "ref")
+
+>>>
++ more books / **education** is only **wearisome**
+  + reminds us of **emptiness** of life under sun
++ but God is far **wiser** + **stronger**
+  + **trust** His way is best
+  + even when we don't **understand** it
++ in the **end**, we will be **vindicated**
+  + for our **faith** in Jesus' name
 
 ---
 <!-- .slide: data-background="white" -->
