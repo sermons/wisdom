@@ -41,7 +41,7 @@ to the children of man to be busy with.
 乃 知 神 叫 世 人 所 經 練 的 是 極 重 的 勞 苦 。
 </div>
 
-[Ecclesiastes 傳道書 1:12-13 (ESV) (p.1/5)](# "ref")
+[Ecclesiastes 傳道書 1:12-13 (ESV/CUV) (p.1/5)](# "ref")
 
 ---
 [14](# "ref")
@@ -57,10 +57,11 @@ and what is lacking cannot be counted.
 我 見 日 光 之 下 所 做 的 一 切 事 ，<br>
 都 是 虛 空 ， 都 是 捕 風 。<br>
 [15](# "ref")
-彎 曲 的 ， 不 能 變 直 ； 缺 少 的 ， 不 能 足 數 。
+彎 曲 的 ， 不 能 變 直 ； <br>
+缺 少 的 ， 不 能 足 數 。
 </div>
 
-[Ecclesiastes 傳道書 1:14-15 (ESV) (p.2/5)](# "ref")
+[Ecclesiastes 傳道書 1:14-15 (ESV/CUV) (p.2/5)](# "ref")
 
 ---
 [16](# "ref")
@@ -76,7 +77,7 @@ of wisdom and knowledge.”
 而 且 我 心 中 多 經 歷 智 慧 和 知 識 的 事 。
 </div>
 
-[Ecclesiastes 傳道書 1:16 (ESV) (p.3/5)](# "ref")
+[Ecclesiastes 傳道書 1:16 (ESV/CUV) (p.3/5)](# "ref")
 
 ---
 [17](# "ref")
@@ -92,7 +93,7 @@ I perceived that this also is but a striving after wind.
 乃 知 這 也 是 捕 風 。
 </div>
 
-[Ecclesiastes 傳道書 1:17 (ESV) (p.4/5)](# "ref")
+[Ecclesiastes 傳道書 1:17 (ESV/CUV) (p.4/5)](# "ref")
 
 ---
 [18](# "ref")
@@ -105,7 +106,7 @@ and he who increases knowledge increases sorrow.
 加 增 知 識 的 ， 就 加 增 憂 傷 。
 </div>
 
-[Ecclesiastes 傳道書 1:18 (ESV) (p.5/5)](# "ref")
+[Ecclesiastes 傳道書 1:18 (ESV/CUV) (p.5/5)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
@@ -118,7 +119,11 @@ and he who increases knowledge increases sorrow.
 The words of the **Teacher**, <br>
 son of **David**, king in Jerusalem
 
-[Ecclesiastes 1:1 (NIV)](# "ref")
+<div class="zh">
+在 耶 路 撒 冷 作 王 、 大 衛 的 兒 子 、 傳 道 者 的 言 語 。
+</div>
+
+[Ecclesiastes 傳道書 1:1 (NIV/CUV)](# "ref")
 
 >>>
 + **Teacher** (Qoholeth): preacher, **assembles** insight
@@ -127,7 +132,85 @@ son of **David**, king in Jerusalem
 + son **Solomon** ("man of peace")
   + aka **Jedidiah** ("loved by God")
   + **blessed** by God
-+ but: didn't have hope of **resurrection**
++ (some **dispute** whether Sol is author)
+  + (but all signs **point** to it)
+
+---
+Behold, I give you a **wise** and discerning mind,  <br>
+so that none like you has been **before** you  <br>
+and none like you shall arise **after** you.
+
+<div class="zh">
+我 就 應 允 你 所 求 的 ， 賜 你 聰 明 智 慧 ，  <br>
+甚 至 在 你 以 前 沒 有 像 你 的 ，  <br>
+在 你 以 後 也 沒 有 像 你 的 。
+</div>
+
+[1 Kings 列王紀上 3:12 (ESV/CUV)](# "ref")
+
+>>>
++ and also **riches** + **honour**
++ but must **walk** in God's ways, as **David** did
++ God appeared **twice** to Sol
+  + again after **temple** finished
+  + Sol knew God is **sovereign**, real
++ Sol was **blessed** by God, but:
+  + does **not** mean he **obeyed** God!
+
+---
+When Solomon was old his **wives** <br>
+**turned away** his heart after other gods, <br>
+and his heart was not **wholly true** to the Lord his God
+
+<div class="zh">
+所 羅 門 年 老 的 時 候 ， <br>
+他 的 妃 嬪 誘 惑 他 的 心 去 隨 從 別 神 ， <br>
+不 效 法 他 父 親 大 衛 <br>
+誠 誠 實 實 地 順 服 耶 和 華 ─ 他 的 神 。
+</div>
+
+[1 Kings 列王紀上 11:4 (ESV/CUV)](# "ref")
+
+>>>
++ 700 wives + 300 concubines!
++ strong **influence** of a wife
++ was Solomon a **good** king?
++ each **king** of Israel/Judah is noted as
+  + "did what was **right** in eyes of LORD"
+  + or "did what was **evil**"
+
+---
+So Solomon did what was **evil** in the sight of the Lord <br>
+and did **not** wholly follow the Lord, <br>
+as **David** his father had done.
+
+<div class="zh">
+所 羅 門 行 耶 和 華 眼 中 看 為 惡 的 事 ，<br>
+不 效 法 他 父 親 大 衛 專 心 順 從 耶 和 華 。
+</div>
+
+[1 Kings 列王紀上 11:6 (ESV/CUV)](# "ref")
+
+>>>
++ Sol was judged as an **evil** king
+  + but God still **used** him
++ Sol's **wisdom** given by God
+  + in Proverbs, Eccl, and Song of Songs
+
+---
+And I applied my heart to seek and to search out <br>
+by wisdom all that is done under heaven.
+
+<div class="zh">
+我 專 心 用 智 慧 尋 求 、 <br>
+查 究 天 下 所 做 的 一 切 事
+</div>
+
+[Ecclesiastes 傳道書 1:13 (ESV/CUV)](# "ref")
+
+---
+
++ didn't have hope of **resurrection**
 + Sol's wisdom is **incomplete** without
   + the **gospel** of Christ
   + hope of **resurrection**
