@@ -475,23 +475,26 @@ For the word of the cross is **folly** <br>
 to those who are **perishing**, <br>
 but to us who are being saved it is the **power of God**.
 
-[20](# "ref")
+<div class="zh">
+因 為 十 字 架 的 道 理 ， <br>
+在 那 滅 亡 的 人 為 愚 拙 ； <br>
+在 我 們 得 救 的 人 ， 卻 為 神 的 大 能 。<br>
+</div>
+
+[1 Corinthians 歌林多前書 1:18 (ESV/CUV) (p.1/3)](# "ref")
+
+---
 Where is the one who is **wise**? Where is the **scribe**? <br>
 Where is the **debater** of this age? <br>
 Has not God made **foolish** the wisdom of the world?
 
 <div class="zh">
-因 為 十 字 架 的 道 理 ， <br>
-在 那 滅 亡 的 人 為 愚 拙 ； <br>
-在 我 們 得 救 的 人 ， 卻 為 神 的 大 能 。<br>
-
-[20](# "ref")
 智 慧 人 在 那 裡 ？ 文 士 在 那 裡 ？ <br>
 這 世 上 的 辯 士 在 那 裡 ？ <br>
 神 豈 不 是 叫 這 世 上 的 智 慧 變 成 愚 拙 麼 ？
 </div>
 
-[1 Corinthians 歌林多前書 1:18,20 (ESV/CUV)](# "ref")
+[1 Corinthians 歌林多前書 1:20 (ESV/CUV) (p.2/3)](# "ref")
 
 ---
 For the **foolishness** of God is **wiser** than men, <br>
@@ -502,7 +505,7 @@ and the **weakness** of God is **stronger** than men.
 神 的 軟 弱 總 比 人 強 壯 。
 </div>
 
-[1 Corinthians 歌林多前書 1:25 (ESV/CUV)](# "ref")
+[1 Corinthians 歌林多前書 1:25 (ESV/CUV) (p.3/3)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
