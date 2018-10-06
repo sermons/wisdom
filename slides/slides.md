@@ -7,8 +7,6 @@
 <!-- .slide: data-background="white" -->
 # What is the **meaning** of life?
 
-[###](#/outline "secret")
-
 >>>
 + what is **worthwhile** to spend our time on?
 + what has **lasting** value?
@@ -21,6 +19,24 @@
 + **Eccl**: reflections from one who
   + **tried** all of the above
   + blessed w/more **wisdom** than all before:
+
+---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
+1. *Sat am:* What is **Wisdom**? [(ch1)](# "ref")
+1. *Sat pm:* Is there meaning in **Ambition**? [(ch2)](# "ref")
+1. *Sun am:* Is there meaning in **Money**? [(ch5)](# "ref")
+1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
+1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
+
+>>>
++ **Plan** for this weekend:
++ Recurring **themes** in Eccl:
+  + search for **wisdom** + meaning
+  + things we **pursue** in life
+  + value in **work** and money
+  + inevitability of **death**
+    + **living** in light of dying
+  + **conclusion**
 
 ---
 [12](# "ref")
@@ -372,7 +388,7 @@ will be **exposed**.
 地 和 其 上 的 物 都 要 燒 盡 了
 </div>
 
-[2 Peter 彼得後書 3:10 (ESV/CUV)](# "ref")
+[2 Peter 彼得後書 3:10 (ESV/CUV) (p.1/2)](# "ref")
 
 >>>
 + this world will **not** last forever
@@ -397,7 +413,7 @@ the coming of the day of God!
 切 切 仰 望 神 的 日 子 來 到 。
 </div>
 
-[2 Peter 彼得後書 3:10 (ESV/CUV)](# "ref")
+[2 Peter 彼得後書 3:11-12 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + not what I can **achieve**
@@ -449,6 +465,8 @@ I perceived that this also is but a **striving after wind**.
 + again: applied **heart**
   + earnest, desperate **search** for truth
 + is **wisdom** actually **better**?
+  + not just **learning** / education
+  + doing **good**, being **moral**
 + **madness**: insane, irrational, chaotic
   + switch off your **brain**
 + **folly**: opposite of wisdom
@@ -458,17 +476,15 @@ I perceived that this also is but a **striving after wind**.
 + **ch2** (tonight): Sol's exploration
 
 ---
-[18](# "ref")
 For in much wisdom is much **vexation**, <br>
 and he who increases knowledge increases **sorrow**.
 
 <div class="zh">
-[18](# "ref")
 因 為 多 有 智 慧 ， 就 多 有 愁 煩 ； <br>
 加 增 知 識 的 ， 就 加 增 憂 傷 。
 </div>
 
-[Ecclesiastes 傳道書 1:18 (ESV/CUV) (p.5/5)](# "ref")
+[Ecclesiastes 傳道書 1:18 (ESV/CUV)](# "ref")
 
 >>>
 + thinking **more** about life only reveals
@@ -476,6 +492,55 @@ and he who increases knowledge increases **sorrow**.
   + inevitability of **death**
 + "**ignorance** is bliss", but
   + doesn't make the **problem** go away
++ ch7 warns against obsessive **pursuit**
+  + of either wisdom **or** folly:
+
+---
+Be not overly **righteous**, and do not make yourself too **wise**. <br>
+Why should you **destroy** yourself?
+
+[17](# "ref")
+Be not overly **wicked**, neither be a **fool**.  <br>
+Why should you **die** before your time?
+
+<div class="zh">
+不 要 行 義 過 分 ， 也 不 要 過 於 自 逞 智 慧 ， <br>
+何 必 自 取 敗 亡 呢 ？ <br>
+
+[17](# "ref")
+不 要 行 惡 過 分 ， 也 不 要 為 人 愚 昧 ，  <br>
+何 必 不 到 期 而 死 呢 ？
+</div>
+
+[Ecclesiastes 傳道書 7:16-17 (ESV/CUV) (p.1/2)](# "ref")
+
+>>>
++ **human** perspective
++ **pursuit** of righteousness, doing good
+  + **impossible** goal
+  + **burn** out trying not to mess up
++ but pursuing **folly** also only hurts self
+
+---
+It is good that you should take hold of **this**,  <br>
+and from **that** withhold not your hand,  <br>
+for the one who **fears God** shall come out from both of them.
+
+<div class="zh">
+你 持 守 這 個 為 美 ， 那 個 也 不 要 鬆 手 ； <br>
+因 為 敬 畏 神 的 人 ， 必 從 這 兩 樣 出 來 。
+</div>
+
+[Ecclesiastes 傳道書 7:18 (ESV/CUV) (p.2/2)](# "ref")
+
+>>>
++ pursue **God**, not righteousness or wisdom
++ e.g., **fruit of Spirit** (Gal5):
+  + **love**, joy, peace, patience, ...
+  + not: "**try harder** to be gentle"
++ but keep in step w/**Spirit**
+  + He will **produce** in you gentleness
++ God's **wisdom** is not like ours:
 
 ---
 For the word of the cross is **folly** <br>
@@ -538,29 +603,31 @@ and the **weakness** of God is **stronger** than men.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
-
----
-<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
-1. *Sat am:* What good is **Wisdom**? [(ch1)](# "ref")
-1. *Sat pm:* Is there meaning in **Ambition**? [(ch2)](# "ref")
-1. *Sun am:* Is there meaning in **Money**? [(ch5)](# "ref")
-1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
-1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
+# What does it mean to be **wise**?
 
 >>>
-+ **Plan** for this weekend:
-+ Recurring **themes** in Eccl:
-  + search for **wisdom** + meaning
-  + things we **pursue** in life
-  + value in **work** and money
-  + inevitability of **death**
-    + **living** in light of dying
-  + **conclusion**
++ why did Sol say more wisdom brings more **sorrow**?
++ how do we **gain** wisdom?
++ do I **aspire** to be as wise as a little **child**
+  + who **trusts** Jesus implicitly?
+
+---
+For the **foolishness** of God is **wiser** than men, <br>
+and the **weakness** of God is **stronger** than men.
+
+<div class="zh">
+因 神 的 愚 拙 總 比 人 智 慧 ， <br>
+神 的 軟 弱 總 比 人 強 壯 。
+</div>
+
+[1 Corinthians 歌林多前書 1:25 (ESV/CUV)](# "ref")
+
+>>>
++ read together
 
 ---
 <!-- .slide: data-background="white" -->
-## 1. Have I **considered** what my **purpose** is?
-## 2. What **projects** of mine have been **chasing** after the wind?
-## 3.
+## 1. Have I **considered** what my **purpose** is? [(Jam1:5)](# "ref")
+## 2. What **projects** of mine have been **chasing** after the wind? [(2Pet3:10-12)](# "ref")
+## 3. What does it mean to be **wise**? [(1Cor1:18-25)](# "ref")
 
