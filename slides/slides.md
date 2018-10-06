@@ -120,7 +120,8 @@ The words of the **Teacher**, <br>
 son of **David**, king in Jerusalem
 
 <div class="zh">
-在 耶 路 撒 冷 作 王 、 大 衛 的 兒 子 、 傳 道 者 的 言 語 。
+在 耶 路 撒 冷 作 王 、 <br>
+大 衛 的 兒 子 、 傳 道 者 的 言 語 。
 </div>
 
 [Ecclesiastes 傳道書 1:1 (NIV/CUV)](# "ref")
@@ -215,7 +216,52 @@ by **wisdom** all that is **done** under heaven.
 + applied **heart**: life-long **learner**
   + not just for **marks** / graduate
   + not to **please** teacher / boss
-+
++ **searching**: how do people **live**?
+  + what do they deem **important**?
++ by **wisdom**: assess / examine
+  + what is **worthwhile**?
+
+---
+If any of you lacks **wisdom**, let him **ask God**, <br>
+who gives **generously** to all without **reproach**, <br>
+and it will be given him.
+
+<div class="zh">
+你 們 中 間 若 有 缺 少 智 慧 的 ，  <br>
+應 當 求 那 厚 賜 與 眾 人 、  <br>
+也 不 斥 責 人 的 神 ， 主 就 必 賜 給 他 。
+</div>
+
+[James 雅各書 1:5 (ESV/CUV)](# "ref")
+
+>>>
++ ask in **faith**, w/o doubting
++ wisdom is **worthwhile** to pursue
++ God is the **source** of true wisdom
++ ask **God** for meaning/purpose in life
+
+---
+<!-- .slide: data-background="white" -->
+# Have I **considered** what my **purpose** is?
+
+>>>
++ or too busy **doing** life to think?
++ just **assume** must do school / work / family
+  + always say **"yes"** to any request
+  + try not to get **angry** / selfish
++ then **retire** and **hope** for the best?
++ Sol applied his **heart** to the search for meaning
+  + turn our hearts to our **Creator** to tell us
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Wisdom [(Ecc1)](# "ref")
+1. **Searching** [(v12-13a)](# "ref")
+1. **Achievements** [(v13b-15)](# "ref")
+1. **Wisdom** [(v16-18)](# "ref")
+
+---
+
 
 ---
 
