@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="title" -->
 # Wisdom
 ## Ecclesiastes 1:12-18
 ### The Meaning of Life (1/5)
@@ -109,7 +109,7 @@ and he who increases knowledge increases sorrow.
 [Ecclesiastes 傳道書 1:18 (ESV/CUV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="outline" class="outline" -->
 ## Wisdom [(Ecc 1)](# "ref")
 1. **Searching** [(v12-13a)](# "ref")
 1. **Achievements** [(v13b-15)](# "ref")
@@ -261,7 +261,7 @@ and it will be given him.
   + turn our hearts to our **Creator** to tell us
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> class="outline" -->
 ## Wisdom [(Ecc1)](# "ref")
 1. Searching [(v12-13a)](# "ref")
 1. **Achievements** [(v13b-15)](# "ref")
@@ -420,7 +420,7 @@ the coming of the day of God!
 + what kind of project **does** have lasting value?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> class="outline" -->
 ## Wisdom [(Ecc1)](# "ref")
 1. Searching [(v12-13a)](# "ref")
 1. Achievements [(v13b-15)](# "ref")
@@ -509,7 +509,7 @@ and the **weakness** of God is **stronger** than men.
 # Q3
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="series" class="outline" -->
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
 1. **Wisdom** [(ch1)](# "ref"): Sat am
 1. **Ambition** [(ch2)](# "ref"): Sat pm
 1. **Money** [(ch5)](# "ref"): Sun am
