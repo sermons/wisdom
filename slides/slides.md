@@ -642,6 +642,7 @@ and the **weakness** of God is **stronger** than men.
   + who **trusts** Jesus implicitly?
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 For the **foolishness** of God is **wiser** than men, <br>
 and the **weakness** of God is **stronger** than men.
 
