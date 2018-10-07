@@ -3,7 +3,7 @@
 ## Ecclesiastes 1:12-18
 ### The Meaning of Life (3/5)
 
-[###](#/series "secret")
+[###](#/Q1 "secret")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -127,14 +127,14 @@ and he who increases knowledge increases sorrow.
 
 [Ecclesiastes 傳道書 1:18 (ESV/CUV) (p.5/5)](# "ref")
 
+[###](#/outline2 "secret")
+
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="outline" class="outline" -->
 ## Wisdom [(Ecc 1)](# "ref")
 1. **Searching** [(v12-13a)](# "ref")
 1. **Achievements** [(v13b-15)](# "ref")
 1. **Wisdom** [(v16-18)](# "ref")
-
-[###](#/Q1 "secret")
 
 ---
 <!-- .slide: <%= bg("Holyland_Model_Temple.jpg") %> -->
@@ -279,6 +279,8 @@ and it will be given him.
 <!-- .slide: data-background="white" id="Q1" -->
 # Have I **considered** what my **purpose** is?
 
+[###](#/series "secret")
+
 >>>
 + or too busy **doing** life to think?
 + just **assume** must do school / work / family
@@ -290,7 +292,7 @@ and it will be given him.
   + turn our hearts to our **Creator** to tell us
 
 ---
-<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> class="outline" id="outline2" -->
 ## Wisdom [(Ecc1)](# "ref")
 1. Searching [(v12-13a)](# "ref")
 1. **Achievements** [(v13b-15)](# "ref")
