@@ -1,7 +1,7 @@
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="title" -->
 # Wisdom
 ## Ecclesiastes 1:12-18
-### The Meaning of Life (3/5)
+### The Meaning of Life (1/4)
 
 [###](#/series "secret")
 

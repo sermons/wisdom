@@ -1,4 +1,4 @@
-# Wisdom (1/5)
+# Wisdom (1/4)
 ## Ecc1:12-18
 
 [![Build status](https://travis-ci.org/sermons/wisdom.svg)](https://travis-ci.org/sermons/wisdom)
