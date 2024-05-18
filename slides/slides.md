@@ -3,8 +3,6 @@
 ## Ecclesiastes 1:12-18
 ### The Meaning of Life (1/4)
 
-[###](#/series "secret")
-
 ---
 <!-- .slide: data-background="white" -->
 # What is the **meaning** of life?
@@ -40,7 +38,7 @@
     + **living** in light of dying
   + **conclusion**
 
----
+******
 [12](# "ref")
 I the Preacher have been king over Israel in Jerusalem. <br>
 [13](# "ref")
@@ -52,7 +50,7 @@ to the children of man to be busy with.
 
 [Ecclesiastes 1:12-13 (ESV) (p.1/5)](# "ref")
 
----
+******
 [14](# "ref")
 I have seen everything that is done under the sun, <br>
 and behold, all is vanity and a striving after wind.
@@ -63,7 +61,7 @@ and what is lacking cannot be counted.
 
 [Ecclesiastes 1:14-15 (ESV) (p.2/5)](# "ref")
 
----
+******
 [16](# "ref")
 I said in my heart, “I have acquired great wisdom, <br>
 surpassing all who were over Jerusalem before me, <br>
@@ -72,7 +70,7 @@ of wisdom and knowledge.”
 
 [Ecclesiastes 1:16 (ESV) (p.3/5)](# "ref")
 
----
+******
 [17](# "ref")
 And I applied my heart to know wisdom  <br>
 and to know madness and folly.
@@ -81,7 +79,7 @@ I perceived that this also is but a striving after wind.
 
 [Ecclesiastes 1:17 (ESV) (p.4/5)](# "ref")
 
----
+******
 [18](# "ref")
 For in much wisdom is much vexation, <br>
 and he who increases knowledge increases sorrow.
@@ -136,7 +134,11 @@ When Solomon was old his **wives** <br>
 **turned away** his heart after other gods, <br>
 and his heart was not **wholly true** to the Lord his God
 
-[1 Kings 11:4 (ESV) (p.1/2)](# "ref")
+So Solomon did what was **evil** in the sight of the Lord <br>
+and did **not** wholly follow the Lord, <br>
+as **David** his father had done.
+
+[1 Kings 11:4,6 (ESV)](# "ref")
 [Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
 
 >>>
@@ -146,16 +148,6 @@ and his heart was not **wholly true** to the Lord his God
 + each **king** of Israel/Judah is noted as
   + "did what was **right** in eyes of LORD"
   + or "did what was **evil**"
-
----
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
-So Solomon did what was **evil** in the sight of the Lord <br>
-and did **not** wholly follow the Lord, <br>
-as **David** his father had done.
-
-[1 Kings 11:6 (ESV) (p.2/2)](# "ref")
-
->>>
 + Sol was judged as an **evil** king
   + but God still **used** him
 + Sol's **wisdom** was given by God
@@ -231,7 +223,6 @@ and it will be given him.
 I have seen everything that is **done** under the **sun**, <br>
 and behold, all is **vanity** and a striving after wind.
 
-[15](# "ref")
 What is **crooked** cannot be made straight, <br>
 and what is **lacking** cannot be counted.
 
@@ -279,7 +270,6 @@ It had absolutely no effect, it was **wasted money**."
 What does man **gain** by all the **toil** <br>
 at which he toils under the **sun**? <br>
 
-[4](# "ref")
 A generation goes, and a generation comes, <br>
 but the **earth** remains forever.
 
@@ -322,7 +312,6 @@ will be **exposed**.
 Since all these things are thus to be **dissolved**, <br>
 what **sort of people** ought you to be <br>
 in lives of **holiness** and godliness, <br>
-[12](# "ref")
 **waiting** for and hastening <br>
 the coming of the day of God!
 
@@ -406,11 +395,10 @@ Be not overly **righteous**, <br>
 and do not make yourself too **wise**. <br>
 Why should you **destroy** yourself?
 
-[17](# "ref")
 Be not overly **wicked**, neither be a **fool**.  <br>
 Why should you **die** before your time?
 
-[Ecclesiastes 7:16-17 (ESV) (p.1/2)](# "ref")
+[Ecclesiastes 7:16-17 (ESV)](# "ref")
 
 >>>
 + **human** perspective
@@ -426,7 +414,7 @@ and from **that** withhold not your hand,  <br>
 for the one who **fears God** <br>
 shall come out from both of them.
 
-[Ecclesiastes 7:18 (ESV) (p.2/2)](# "ref")
+[Ecclesiastes 7:18 (ESV)](# "ref")
 
 >>>
 + pursue **God**, not righteousness or wisdom
@@ -443,7 +431,11 @@ For the word of the cross is **folly** <br>
 to those who are **perishing**, <br>
 but to us who are being saved it is the **power of God**.
 
-[1 Corinthians 1:18 (ESV) (p.1/3)](# "ref")
+Where is the one who is **wise**? Where is the **scribe**? <br>
+Where is the **debater** of this age? <br>
+Has not God made **foolish** the wisdom of the world?
+
+[1 Corinthians 1:18,20 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
@@ -452,16 +444,6 @@ but to us who are being saved it is the **power of God**.
   + Master become the **servant** of all
 + sounds like **foolishness** + weakness
   + but is the **power** of God:
-
----
-<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
-Where is the one who is **wise**? Where is the **scribe**? <br>
-Where is the **debater** of this age? <br>
-Has not God made **foolish** the wisdom of the world?
-
-[1 Corinthians 1:20 (ESV) (p.2/3)](# "ref")
-
->>>
 + all the **philosophers** / PhDs of the world
   + in all their **human** wisdom
   + cannot **comprehend** God's plan of salvation
@@ -472,7 +454,7 @@ Has not God made **foolish** the wisdom of the world?
 For the **foolishness** of God is **wiser** than men, <br>
 and the **weakness** of God is **stronger** than men.
 
-[1 Corinthians 1:25 (ESV) (p.3/3)](# "ref")
+[1 Corinthians 1:25 (ESV)](# "ref")
 
 >>>
 + more books / **education** is only **wearisome**
