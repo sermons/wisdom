@@ -24,10 +24,9 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
-1. *Sat am:* **Introduction** to Ecclesiastes
-1. *Sat pm:* Is there <br> meaning
+1. *Sat pm:* What is **Wisdom**? [(ch1)](# "ref")
+1. *Sun am:* Is there <br> meaning
   in **Ambition** + **Money**? [(ch2,5)](# "ref")
-1. *Sun am:* What is **Wisdom**? [(ch1)](# "ref")
 1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
 1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
 
@@ -51,16 +50,7 @@ by wisdom all that is done under heaven.
 It is an unhappy business that God has given  <br>
 to the children of man to be busy with.
 
-<div class="zh">
-[12](# "ref")
-我 傳 道 者 在 耶 路 撒 冷 作 過 以 色 列 的 王 。 <br>
-[13](# "ref")
-我 專 心 用 智 慧 尋 求 、 <br>
-查 究 天 下 所 做 的 一 切 事 ， <br>
-乃 知 神 叫 世 人 所 經 練 的 是 極 重 的 勞 苦 。
-</div>
-
-[Ecclesiastes 傳道書 1:12-13 (ESV/CUV) (p.1/5)](# "ref")
+[Ecclesiastes 1:12-13 (ESV) (p.1/5)](# "ref")
 
 ---
 [14](# "ref")
@@ -71,16 +61,7 @@ and behold, all is vanity and a striving after wind.
 What is crooked cannot be made straight, <br>
 and what is lacking cannot be counted.
 
-<div class="zh">
-[14](# "ref")
-我 見 日 光 之 下 所 做 的 一 切 事 ，<br>
-都 是 虛 空 ， 都 是 捕 風 。<br>
-[15](# "ref")
-彎 曲 的 ， 不 能 變 直 ； <br>
-缺 少 的 ， 不 能 足 數 。
-</div>
-
-[Ecclesiastes 傳道書 1:14-15 (ESV/CUV) (p.2/5)](# "ref")
+[Ecclesiastes 1:14-15 (ESV) (p.2/5)](# "ref")
 
 ---
 [16](# "ref")
@@ -89,14 +70,7 @@ surpassing all who were over Jerusalem before me, <br>
 and my heart has had great experience  <br>
 of wisdom and knowledge.”
 
-<div class="zh">
-[16](# "ref")
-我 心 裡 議 論 說 ： 我 得 了 大 智 慧 ， <br>
-勝 過 我 以 前 在 耶 路 撒 冷 的 眾 人 ， <br>
-而 且 我 心 中 多 經 歷 智 慧 和 知 識 的 事 。
-</div>
-
-[Ecclesiastes 傳道書 1:16 (ESV/CUV) (p.3/5)](# "ref")
+[Ecclesiastes 1:16 (ESV) (p.3/5)](# "ref")
 
 ---
 [17](# "ref")
@@ -105,27 +79,14 @@ and to know madness and folly.
 
 I perceived that this also is but a striving after wind.
 
-<div class="zh">
-[17](# "ref")
-我 又 專 心 察 明 智 慧 、 <br>
-狂 妄 ， 和 愚 昧 ， <br>
-乃 知 這 也 是 捕 風 。
-</div>
-
-[Ecclesiastes 傳道書 1:17 (ESV/CUV) (p.4/5)](# "ref")
+[Ecclesiastes 1:17 (ESV) (p.4/5)](# "ref")
 
 ---
 [18](# "ref")
 For in much wisdom is much vexation, <br>
 and he who increases knowledge increases sorrow.
 
-<div class="zh">
-[18](# "ref")
-因 為 多 有 智 慧 ， 就 多 有 愁 煩 ； <br>
-加 增 知 識 的 ， 就 加 增 憂 傷 。
-</div>
-
-[Ecclesiastes 傳道書 1:18 (ESV/CUV) (p.5/5)](# "ref")
+[Ecclesiastes 1:18 (ESV) (p.5/5)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="outline" class="outline" -->
@@ -134,19 +95,12 @@ and he who increases knowledge increases sorrow.
 1. **Achievements** [(v13b-15)](# "ref")
 1. **Wisdom** [(v16-18)](# "ref")
 
-[###](#/Q1 "secret")
-
 ---
 <!-- .slide: <%= bg("Holyland_Model_Temple.jpg") %> -->
 The words of the **Teacher**, <br>
 son of **David**, king in Jerusalem
 
-<div class="zh">
-在 耶 路 撒 冷 作 王 、 <br>
-大 衛 的 兒 子 、 傳 道 者 的 言 語 。
-</div>
-
-[Ecclesiastes 傳道書 1:1 (NIV/CUV)](# "ref")
+[Ecclesiastes 1:1 (NIV)](# "ref")
 
 >>>
 + **Teacher** (Qoholeth): preacher, **assembles** insight
@@ -164,13 +118,7 @@ Behold, I give you a **wise** and discerning mind,  <br>
 so that none like you has been **before** you  <br>
 and none like you shall arise **after** you.
 
-<div class="zh">
-我 就 應 允 你 所 求 的 ， 賜 你 聰 明 智 慧 ，  <br>
-甚 至 在 你 以 前 沒 有 像 你 的 ，  <br>
-在 你 以 後 也 沒 有 像 你 的 。
-</div>
-
-[1 Kings 列王紀上 3:12 (ESV/CUV)](# "ref")
+[1 Kings 3:12 (ESV)](# "ref")
 [Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
 
 >>>
@@ -188,14 +136,7 @@ When Solomon was old his **wives** <br>
 **turned away** his heart after other gods, <br>
 and his heart was not **wholly true** to the Lord his God
 
-<div class="zh">
-所 羅 門 年 老 的 時 候 ， <br>
-他 的 妃 嬪 誘 惑 他 的 心 去 隨 從 別 神 ， <br>
-不 效 法 他 父 親 大 衛 <br>
-誠 誠 實 實 地 順 服 耶 和 華 ─ 他 的 神 。
-</div>
-
-[1 Kings 列王紀上 11:4 (ESV/CUV) (p.1/2)](# "ref")
+[1 Kings 11:4 (ESV) (p.1/2)](# "ref")
 [Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
 
 >>>
@@ -212,12 +153,7 @@ So Solomon did what was **evil** in the sight of the Lord <br>
 and did **not** wholly follow the Lord, <br>
 as **David** his father had done.
 
-<div class="zh">
-所 羅 門 行 耶 和 華 眼 中 看 為 惡 的 事 ，<br>
-不 效 法 他 父 親 大 衛 專 心 順 從 耶 和 華 。
-</div>
-
-[1 Kings 列王紀上 11:6 (ESV/CUV) (p.2/2)](# "ref")
+[1 Kings 11:6 (ESV) (p.2/2)](# "ref")
 
 >>>
 + Sol was judged as an **evil** king
@@ -233,12 +169,7 @@ as **David** his father had done.
 I applied my **heart** to seek and to **search** out <br>
 by **wisdom** all that is done **under heaven**.
 
-<div class="zh">
-我 專 心 用 智 慧 尋 求 、 <br>
-查 究 天 下 所 做 的 一 切 事
-</div>
-
-[Ecclesiastes 傳道書 1:13 (ESV/CUV)](# "ref")
+[Ecclesiastes 1:13 (ESV)](# "ref")
 
 >>>
 + applied **heart**: life-long **learner**
@@ -261,13 +192,7 @@ If any of you lacks **wisdom**, let him **ask God**, <br>
 who gives **generously** to all without **reproach**, <br>
 and it will be given him.
 
-<div class="zh">
-你 們 中 間 若 有 缺 少 智 慧 的 ，  <br>
-應 當 求 那 厚 賜 與 眾 人 、  <br>
-也 不 斥 責 人 的 神 ， 主 就 必 賜 給 他 。
-</div>
-
-[James 雅各書 1:5 (ESV/CUV)](# "ref")
+[James 1:5 (ESV)](# "ref")
 
 >>>
 + ask in **faith**, w/o doubting
@@ -310,15 +235,7 @@ and behold, all is **vanity** and a striving after wind.
 What is **crooked** cannot be made straight, <br>
 and what is **lacking** cannot be counted.
 
-<div class="zh">
-我 見 日 光 之 下 所 做 的 一 切 事 ，<br>
-都 是 虛 空 ， 都 是 捕 風 。<br>
-[15](# "ref")
-彎 曲 的 ， 不 能 變 直 ； <br>
-缺 少 的 ， 不 能 足 數 。
-</div>
-
-[Ecclesiastes 傳道書 1:14-15 (ESV/CUV)](# "ref")
+[Ecclesiastes 1:14-15 (ESV)](# "ref")
 [Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
 >>>
@@ -366,17 +283,7 @@ at which he toils under the **sun**? <br>
 A generation goes, and a generation comes, <br>
 but the **earth** remains forever.
 
-<div class="zh">
-人 一 切 的 勞 碌 ，  <br>
-就 是 他 在 日 光 之 下 的 勞 碌 ，  <br>
-有 甚 麼 益 處 呢 ？<br>
-
-[4](# "ref")
-一 代 過 去 ， 一 代 又 來 ，  <br>
-地 卻 永 遠 長 存 。
-</div>
-
-[Ecclesiastes 傳道書 1:3-4 (ESV/CUV)](# "ref")
+[Ecclesiastes 1:3-4 (ESV)](# "ref")
 [Gulf of Mexico. NASA](https://unsplash.com/photos/Q1p7bh3SHj8 "caption")
 
 >>>
@@ -400,14 +307,7 @@ and then the **heavens** will **pass away** with a roar, ...<br>
 and the **earth** and the **works** that are done on it<br>
 will be **exposed**.
 
-<div class="zh">
-但 主 的 日 子 要 像 賊 來 到 一 樣 。<br>
-那 日 ， 天 必 大 有 響 聲 廢 去 ， <br>
-有 形 質 的 都 要 被 烈 火 銷 化 ， <br>
-地 和 其 上 的 物 都 要 燒 盡 了
-</div>
-
-[2 Peter 彼得後書 3:10 (ESV/CUV) (p.1/2)](# "ref")
+[2 Peter 3:10 (ESV) (p.1/2)](# "ref")
 
 >>>
 + this world will **not** last forever
@@ -426,14 +326,7 @@ in lives of **holiness** and godliness, <br>
 **waiting** for and hastening <br>
 the coming of the day of God!
 
-<div class="zh">
-這 一 切 既 然 都 要 如 此 銷 化 ， <br>
-你 們 為 人 該 當 怎 樣 聖 潔 ， 怎 樣 敬 虔 ，<br>
-[12](# "ref")
-切 切 仰 望 神 的 日 子 來 到 。
-</div>
-
-[2 Peter 彼得後書 3:11-12 (ESV/CUV) (p.2/2)](# "ref")
+[2 Peter 3:11-12 (ESV) (p.2/2)](# "ref")
 
 >>>
 + not what I can **achieve**
@@ -474,13 +367,7 @@ and to know **madness** and **folly**.
 
 I perceived that this also is but a **striving after wind**.
 
-<div class="zh">
-我 又 專 心 察 明 智 慧 、 <br>
-狂 妄 ， 和 愚 昧 ， <br>
-乃 知 這 也 是 捕 風 。
-</div>
-
-[Ecclesiastes 傳道書 1:17 (ESV/CUV) (p.1/2)](# "ref")
+[Ecclesiastes 1:17 (ESV) (p.1/2)](# "ref")
 [Brandi Redd](https://unsplash.com/photos/6H9H-tYPUQQ "caption")
 
 >>>
@@ -502,12 +389,7 @@ I perceived that this also is but a **striving after wind**.
 For in much wisdom is much **vexation**, <br>
 and he who increases knowledge increases **sorrow**.
 
-<div class="zh">
-因 為 多 有 智 慧 ， 就 多 有 愁 煩 ； <br>
-加 增 知 識 的 ， 就 加 增 憂 傷 。
-</div>
-
-[Ecclesiastes 傳道書 1:18 (ESV/CUV) (p.2/2)](# "ref")
+[Ecclesiastes 1:18 (ESV) (p.2/2)](# "ref")
 
 >>>
 + thinking **more** about life only reveals
@@ -528,16 +410,7 @@ Why should you **destroy** yourself?
 Be not overly **wicked**, neither be a **fool**.  <br>
 Why should you **die** before your time?
 
-<div class="zh">
-不 要 行 義 過 分 ， 也 不 要 過 於 自 逞 智 慧 ， <br>
-何 必 自 取 敗 亡 呢 ？ <br>
-
-[17](# "ref")
-不 要 行 惡 過 分 ， 也 不 要 為 人 愚 昧 ，  <br>
-何 必 不 到 期 而 死 呢 ？
-</div>
-
-[Ecclesiastes 傳道書 7:16-17 (ESV/CUV) (p.1/2)](# "ref")
+[Ecclesiastes 7:16-17 (ESV) (p.1/2)](# "ref")
 
 >>>
 + **human** perspective
@@ -553,12 +426,7 @@ and from **that** withhold not your hand,  <br>
 for the one who **fears God** <br>
 shall come out from both of them.
 
-<div class="zh">
-你 持 守 這 個 為 美 ， 那 個 也 不 要 鬆 手 ； <br>
-因 為 敬 畏 神 的 人 ， 必 從 這 兩 樣 出 來 。
-</div>
-
-[Ecclesiastes 傳道書 7:18 (ESV/CUV) (p.2/2)](# "ref")
+[Ecclesiastes 7:18 (ESV) (p.2/2)](# "ref")
 
 >>>
 + pursue **God**, not righteousness or wisdom
@@ -575,13 +443,7 @@ For the word of the cross is **folly** <br>
 to those who are **perishing**, <br>
 but to us who are being saved it is the **power of God**.
 
-<div class="zh">
-因 為 十 字 架 的 道 理 ， <br>
-在 那 滅 亡 的 人 為 愚 拙 ； <br>
-在 我 們 得 救 的 人 ， 卻 為 神 的 大 能 。<br>
-</div>
-
-[1 Corinthians 歌林多前書 1:18 (ESV/CUV) (p.1/3)](# "ref")
+[1 Corinthians 1:18 (ESV) (p.1/3)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
@@ -597,13 +459,7 @@ Where is the one who is **wise**? Where is the **scribe**? <br>
 Where is the **debater** of this age? <br>
 Has not God made **foolish** the wisdom of the world?
 
-<div class="zh">
-智 慧 人 在 那 裡 ？ 文 士 在 那 裡 ？ <br>
-這 世 上 的 辯 士 在 那 裡 ？ <br>
-神 豈 不 是 叫 這 世 上 的 智 慧 變 成 愚 拙 麼 ？
-</div>
-
-[1 Corinthians 歌林多前書 1:20 (ESV/CUV) (p.2/3)](# "ref")
+[1 Corinthians 1:20 (ESV) (p.2/3)](# "ref")
 
 >>>
 + all the **philosophers** / PhDs of the world
@@ -616,12 +472,7 @@ Has not God made **foolish** the wisdom of the world?
 For the **foolishness** of God is **wiser** than men, <br>
 and the **weakness** of God is **stronger** than men.
 
-<div class="zh">
-因 神 的 愚 拙 總 比 人 智 慧 ， <br>
-神 的 軟 弱 總 比 人 強 壯 。
-</div>
-
-[1 Corinthians 歌林多前書 1:25 (ESV/CUV) (p.3/3)](# "ref")
+[1 Corinthians 1:25 (ESV) (p.3/3)](# "ref")
 
 >>>
 + more books / **education** is only **wearisome**
@@ -647,12 +498,7 @@ and the **weakness** of God is **stronger** than men.
 For the **foolishness** of God is **wiser** than men, <br>
 and the **weakness** of God is **stronger** than men.
 
-<div class="zh">
-因 神 的 愚 拙 總 比 人 智 慧 ， <br>
-神 的 軟 弱 總 比 人 強 壯 。
-</div>
-
-[1 Corinthians 歌林多前書 1:25 (ESV/CUV)](# "ref")
+[1 Corinthians 1:25 (ESV)](# "ref")
 
 >>>
 + read together
