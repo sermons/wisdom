@@ -1,11 +1,12 @@
 # Wisdom (1/4)
 ## Ecc1:12-18
 
-[![Build status](https://api.travis-ci.org/sermons/wisdom.svg)](https://travis-ci.org/github/sermons/wisdom)
-[![Node deps](https://david-dm.org/sermons/wisdom.svg)](https://david-dm.org/sermons/wisdom)
-[![Node devDeps](https://david-dm.org/sermons/wisdom/dev-status.svg)](https://david-dm.org/sermons/wisdom?type=dev)
+[![Build status](https://github.com/sermons/wisdom/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/wisdom/actions/workflows/build.yml)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/wisdom)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
 See [INSTALL.md](INSTALL.md)
 for how to make your own presentation.
+
+Test locally with `grunt connect:serve:keepalive`

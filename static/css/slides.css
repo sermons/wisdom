@@ -9,6 +9,11 @@ html { font-size: 40px; }
   opacity: 60%;
 }
 
+/* Blur bg img behind slide content */
+section[data-background-image] {
+  backdrop-filter: blur(0.1rem)
+}
+
 /* Shade text if background image */
 section[data-background-image],
 .reveal section[data-background-image] h1,
@@ -69,7 +74,7 @@ section[data-background-image],
 /* Image captions */
 .reveal section .caption,
 .reveal section a[title="caption"] {
-  font-size: 14px;
+  font-size: 0.25rem;
   color: rgba(255,255,255,0.7);
   text-align: right;
   position: absolute;
@@ -113,12 +118,14 @@ section[data-background-image],
 #header { top: 0.5em }
 #footer { bottom: 0.5em }
 
-#footer .links { margin: 0 1em }
+#footer .links a { padding: 0 0.5em }
 
 #footer .commit {
   font-size: 0.75em;
-  opacity: 0.2;
+  opacity: 0.4;
 }
+
+#footer a { color: white }
 
 /* Placeholder if Javascript is disabled */
 noscript .noscript {
