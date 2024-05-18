@@ -488,6 +488,26 @@ and the **weakness** of God is **stronger** than men.
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> class="empty" -->
 
+
+---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
+
+## Devotions: Ecc 3
+### (tomorrow am)
+
++ Bring your **Bible**, pen + paper
++ Find a **quiet**, undistracted spot
++ **Settle** your heart and **pray** to be receptive to God's Word
++ **Read** the passage straight through
+  + Record initial **reactions**, questions
++ Re-read, now **deeper**: check **context**, xrefs, word studies
+  + Form an **outline** if you can
+  + **Why** is this passage in the Bible? What does God want to **communicate**?
++ Re-read, now **slower**: pause, silence, listen
+  + What is God saying to **you**?
++ **Pray** your response to God
++ Re-read straight through to **retain*" it in mind throughout the day
+
 ---
 <!-- .slide: data-background="white" -->
 ## 1. Have I **considered** if I'm on the right **path**? [(Jam1:5)](# "ref")
