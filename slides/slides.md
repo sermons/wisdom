@@ -1,11 +1,11 @@
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="title" -->
 # Wisdom
 ## Ecclesiastes 1:12-18
-### The Meaning of Life (1/4)
+### The Search for Meaning (1/4)
 
 ---
 <!-- .slide: data-background="white" -->
-# What is the **meaning** of life?
+# What is the <br> **meaning** of life?
 
 >>>
 + what is **worthwhile** to spend our time on?
@@ -23,10 +23,10 @@
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
 1. *Sat pm:* What is **Wisdom**? [(ch1)](# "ref")
-1. *Sun am:* Is there <br> meaning
+1. *Sun am:* Is there meaning <br>
   in **Ambition** + **Money**? [(ch2,5)](# "ref")
-1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
-1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
+1. *Sun pm:* What is the <br> **Fate** of mankind? [(ch9)](# "ref")
+1. *Mon am:* What is the <br> meaning of **Life**? [(ch12)](# "ref")
 
 >>>
 + **Plan** for this weekend:
@@ -467,7 +467,7 @@ and the **weakness** of God is **stronger** than men.
 
 ---
 <!-- .slide: data-background="white" -->
-# What does it mean to be **wise**?
+# What does it mean <br> to be **wise**?
 
 >>>
 + why did Sol say more wisdom brings more **sorrow**?
