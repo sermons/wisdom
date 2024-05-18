@@ -486,6 +486,9 @@ and the **weakness** of God is **stronger** than men.
 + read together
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> class="empty" -->
+
+---
 <!-- .slide: data-background="white" -->
 ## 1. Have I **considered** what my **purpose** is? [(Jam1:5)](# "ref")
 ## 2. What **projects** of mine have been **chasing** after the wind? [(2Pet3:10-12)](# "ref")
