@@ -194,7 +194,7 @@ and it will be given him.
 
 ---
 <!-- .slide: data-background="white" id="Q1" -->
-# Have I **considered** what my **purpose** is?
+# Have I **considered** if I'm <br> on the right **path**?
 
 >>>
 + or too busy **doing** life to think?
@@ -473,7 +473,7 @@ and the **weakness** of God is **stronger** than men.
 + why did Sol say more wisdom brings more **sorrow**?
 + how do we **gain** wisdom?
 + do I **aspire** to be as wise as a little **child**
-  + who **trusts** Jesus implicitly?
+  + who **trusts** Christ implicitly?
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
@@ -490,7 +490,7 @@ and the **weakness** of God is **stronger** than men.
 
 ---
 <!-- .slide: data-background="white" -->
-## 1. Have I **considered** what my **purpose** is? [(Jam1:5)](# "ref")
+## 1. Have I **considered** if I'm on the right **path**? [(Jam1:5)](# "ref")
 ## 2. What **projects** of mine have been **chasing** after the wind? [(2Pet3:10-12)](# "ref")
 ## 3. What does it mean to be **wise**? [(1Cor1:18-25)](# "ref")
 
