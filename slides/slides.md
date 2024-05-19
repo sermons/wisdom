@@ -194,7 +194,7 @@ and it will be given him.
 
 ---
 <!-- .slide: data-background="white" id="Q1" -->
-# Have I **considered** if I'm <br> on the right **path**?
+# Have I **considered** <br> if I'm on <br> the right **path**?
 
 >>>
 + or too busy **doing** life to think?
@@ -504,8 +504,8 @@ and the **weakness** of God is **stronger** than men.
   + What does God want to **communicate**?
 + Re-read, now **slower**: pause, silence, listen
   + What is God saying to **you**?
-+ **Pray** your response to God
-+ Re-read straight through to **retain** it in mind throughout the day
+  + **Pray** your response to God
++ Re-read straight through to **retain** it <br> in mind throughout the day
 
 <!-- .element: class="r-stretch" -->
 
