@@ -493,19 +493,16 @@ and the **weakness** of God is **stronger** than men.
 
 ## Devos: Ecc 3 (Sun), 11 (Mon)
 
-+ Bring your **Bible**, pen + paper
 + Find a **quiet**, undistracted spot
 + **Settle** your heart, **pray** to be receptive to God's Word
-+ **Read** the passage straight through
-  + Record initial **reactions**, questions
++ **Read** straight through: reactions, questions
 + Re-read, now **deeper**: context, xrefs, word study
-  + Form an **outline** if you can
-  + **Why** is this passage in the Bible?
+  + Outline? **Why** is this passage in the Bible?
   + What does God want to **communicate**?
 + Re-read, now **slower**: pause, silence, listen
   + What is God saying to **you**?
   + **Pray** your response to God
-+ Re-read straight through to **retain** it <br> in mind throughout the day
++ Re-read straight through to **retain** it
 
 <!-- .element: class="r-stretch" -->
 
